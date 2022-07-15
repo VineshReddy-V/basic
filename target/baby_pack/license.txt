@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baby Pack
+* source:	https://sketchfab.com/3d-models/baby-pack-a45f2d9c39ed4298833f38203efddf08
+* author:	liebherr996litronic (https://sketchfab.com/liebherr996litronic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baby Pack" (https://sketchfab.com/3d-models/baby-pack-a45f2d9c39ed4298833f38203efddf08) by liebherr996litronic (https://sketchfab.com/liebherr996litronic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
